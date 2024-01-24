@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  padding: 10px;
+  width: 40%;
+}
+
+.card_item {
+  margin-right: 15px;
+}
+
+.card_item_title {
+  font-size: 32px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.img_wrap {
+  overflow: hidden;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.img_wrap img {
+  display: block;
+  width: 100%;
+}
